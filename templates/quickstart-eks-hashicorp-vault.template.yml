@@ -107,6 +107,9 @@ Parameters:
     Description: Version of Vault to use.
     AllowedValues: 
      - "1.6.0"
+     - "1.6.5"
+     - "1.7.0"
+     - "1.7.3"
   VaultDeploymentSize:
     Type: String
     Default: "small"
